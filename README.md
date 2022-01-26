@@ -1,11 +1,11 @@
 ---
-title: CyrisXD
+title: Sahil
 date: '2020-07-14'
 spoiler: Creativity Readme Template
 categories: ["creativity", "all-profile"]
-githubUsername: 'CyrisXD'
+githubUsername: 'mr.sahil.04'
 ---
 
-![Hey there, I'm Sahil. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+![Hey there, I'm Sahil. I'm a software developer, a maker and infosec enthusiast. Check out my work]
 
 <!--
